@@ -1,0 +1,119 @@
+{
+  "english": [
+    {
+      "id": "1",
+      "name": "Motijheel",
+      "address": "Dilkusha, Dhaka 1000",
+      "link": "https://maps.app.goo.gl/ybfqYKAmTYozWYJ67"
+    },
+    {
+      "id": "2",
+      "name": "Bangladesh Secretariat",
+      "address": "3 Topkhana Road, Dhaka 1000",
+      "link": "https://maps.app.goo.gl/mE6d9CgeZpmJzXna6"
+    },
+    {
+      "id": "3",
+      "name": "Dhaka University",
+      "address": "Secretariat Rd, Dhaka",
+      "link": "https://maps.app.goo.gl/7MaG2FZdEEzB37bu5"
+    },
+    {
+      "id": "4",
+      "name": "Shahbag",
+      "address": "Kazi Nazrul Islam Ave, Dhaka",
+      "link": "https://maps.app.goo.gl/rVDpPgM5DWXprDMcA"
+    },
+    {
+      "id": "5",
+      "name": "Karwan Bazar",
+      "address": "10 Kawran Bazar Rd, Dhaka 1215",
+      "link": "https://maps.app.goo.gl/2PXHmqztFqGS7dNy8"
+    },
+    {
+      "id": "6",
+      "name": "Farmgate",
+      "address": "Q95P+JQ5, Dhaka 1215",
+      "link": "https://maps.app.goo.gl/uLy1afUDdF4RQP3s6"
+    },
+    {
+      "id": "7",
+      "name": "Bijoy Sarani",
+      "address": "Q98M+G6V Zia Udyan Bus Stop, Dhaka",
+      "link": "https://maps.app.goo.gl/NKWR1ywaZdVGZCnm9"
+    },
+    {
+      "id": "8",
+      "name": "Agargaon",
+      "address": "Dhaka",
+      "link": "https://maps.app.goo.gl/pk9PhuPK3dKKHMM79"
+    },
+    {
+      "id": "9",
+      "name": "Shewrapara",
+      "address": "Dhaka",
+      "link": "https://maps.app.goo.gl/7WQmtgkicrqExscD6"
+    },
+    {
+      "id": "10",
+      "name": "Kazipara",
+      "address": "554 Begum Rokeya Avenue, Dhaka",
+      "link": "https://maps.app.goo.gl/4eH3jsum7m4yXP2X8"
+    },
+    {
+      "id": "11",
+      "name": "Mirpur 10",
+      "address": "Dhaka",
+      "link": "https://maps.app.goo.gl/PZ8jvVttJqBkn5Uo8"
+    },
+    {
+      "id": "12",
+      "name": "Mirpur 11",
+      "address": "Bus Stand, Dhaka 1216",
+      "link": "https://maps.app.goo.gl/WhdJYVQutwFagVuc7"
+    },
+    {
+      "id": "13",
+      "name": "Pallabi",
+      "address": "Begum Rokeya Ave, Dhaka 1216",
+      "link": "https://maps.app.goo.gl/zAiHS2bf9obpJ6vG7"
+    },
+    {
+      "id": "14",
+      "name": "Uttara South",
+      "address": "R9W7+87F, Road, Dhaka",
+      "link": "https://maps.app.goo.gl/HCUrABd1E3uqXF2t6"
+    },
+    {
+      "id": "15",
+      "name": "Uttara Center",
+      "address": "Dhaka",
+      "link": "https://maps.app.goo.gl/soz2uSxAZu8sXKCC7"
+    },
+    {
+      "id": "16",
+      "name": "Uttara North",
+      "address": "Dhaka",
+      "link": "https://maps.app.goo.gl/xtPnn4vH4FpaYuPH7"
+    }
+  ],
+
+  "bangla": [
+    { "id": "1", "name": "মতিঝিল", "address": "", "link": "" },
+    { "id": "2", "name": "বাংলাদেশ সচিবালয়", "address": "", "link": "" },
+    { "id": "3", "name": "ঢাকা বিশ্ববিদ্যালয়", "address": "", "link": "" },
+    { "id": "4", "name": "শাহবাগ", "address": "", "link": "" },
+    { "id": "5", "name": "কাওরান বাজার", "address": "", "link": "" },
+    { "id": "6", "name": "ফার্মগেট", "address": "", "link": "" },
+    { "id": "7", "name": "বিজয় সরণি", "address": "", "link": "" },
+    { "id": "8", "name": "আগারগাঁও", "address": "", "link": "" },
+    { "id": "9", "name": "শেওড়াপাড়া", "address": "", "link": "" },
+    { "id": "10", "name": "কাজীপাড়া", "address": "", "link": "" },
+    { "id": "11", "name": "মিরপুর ১০", "address": "", "link": "" },
+    { "id": "12", "name": "মিরপুর ১১", "address": "", "link": "" },
+    { "id": "13", "name": "পল্লবী", "address": "", "link": "" },
+    { "id": "14", "name": "উত্তরা দক্ষিণ", "address": "", "link": "" },
+    { "id": "15", "name": "উত্তরা সেন্টার", "address": "", "link": "" },
+    { "id": "16", "name": "উত্তরা উত্তর", "address": "", "link": "" }
+  ]
+}
